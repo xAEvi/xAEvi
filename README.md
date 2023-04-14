@@ -23,7 +23,7 @@ Learning:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/152193337799999488/)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xAEvi02)
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=xEAvi)
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=xEAvi)](https://www.last.fm/user/xEAvi)
 
 
 
