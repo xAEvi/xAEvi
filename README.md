@@ -4,7 +4,7 @@
 
 I'm a Software Engineering student
 
-Currently immersing myself in the deep ocean of technologies to find my way as a developer :computer:
+Currently immersing in the deep ocean of technologies to find my way as a developer :computer:
 
 ## Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
