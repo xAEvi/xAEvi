@@ -1,10 +1,15 @@
-# Heya, I'm Xavier! :ribbon:
+<h1 align="center">
+Heya, I'm Xavier! :ribbon:
+</h1>
 
-![ezgif com-resize](https://user-images.githubusercontent.com/105865102/232114237-843f9c21-0fbd-4397-8b7b-e6280944f685.gif)
+<p align="center">
+  <img width="200" height="200" src="https://user-images.githubusercontent.com/105865102/232114237-843f9c21-0fbd-4397-8b7b-e6280944f685.gif">
+</p>
 
-I'm a Software Engineering student
+<p align="center">
+    Currently immersing in the deep ocean of technologies to find my way as a developer :computer:
+</p>
 
-Currently immersing in the deep ocean of technologies to find my way as a developer :computer:
 
 ## Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
